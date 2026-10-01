@@ -1,4 +1,4 @@
-# Dniherdiana (dniWebCraft)
+# dniWebCraft
 **Performance & Conversion Web Developer**
 
 I build fast, clear, and easy-to-use business websites. A website does not need to be complicated to be useful. It just needs to help people understand what you offer, find the information they need, and know what to do next.
